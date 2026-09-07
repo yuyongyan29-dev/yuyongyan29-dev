@@ -2,10 +2,6 @@
 
 **🤖 AI Product Manager · 🛠️ Agent Builder · 🚀 Product Engineer**
 
-I turn real user and business problems into usable AI products — from user research and task definition to workflow design, tool calling, evaluation, permissions, data flows, and production validation. I care about both product decisions and the engineering details that make them work.
-
-Currently open to opportunities in **AI Product Management, Agent Development, and AI Application Engineering**.
-
 ## 🧭 What I Do
 
 - **🤖 Agent Products**: Design bounded, evidence-aware workflows that preserve human decision-making instead of building chat demos without a clear job to do.
@@ -24,12 +20,6 @@ A growth platform for offline businesses, covering store onboarding, business di
 - CloudBase Event Cloud Functions, NoSQL/MySQL, Cloud Storage, and WeChat Pay
 - React 19 + Vite operations console with RBAC, payment review, and audit trails
 - Dedicated AI gateway with schema, factuality, and compliance validation
-
-### 📊 Content Growth & Data Operations
-
-Managed end-to-end Xiaohongshu operations for a leading home-appliance brand, including content production, creator campaigns, paid traffic, search placement, owned account networks, and content asset management.
-
-I also redesigned the team workflow around AI: input → processing → validation → editing → archiving, turning ad-hoc content work into a more repeatable operating system.
 
 ## 🧰 Tech Stack
 
