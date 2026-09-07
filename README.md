@@ -15,10 +15,11 @@ Currently open to opportunities in **AI Product Management, Agent Development, a
 
 ## 🚀 Selected Projects
 
-### 📱 Commercial WeChat Mini Program & Operations Platform *(Private Project)*
+### 📱 Commercial WeChat Mini Program & Operations Platform *(For Leading domestic home appliance brands, targeting offline home appliance stores)*
 
 A growth platform for offline businesses, covering store onboarding, business diagnosis, campaign planning, short-video scripts, execution, and retrospectives.
 
+- Deployed as part of a large-scale retail AI deployment.
 - Native WeChat Mini Program with strict TypeScript, WXML, and WXSS
 - CloudBase Event Cloud Functions, NoSQL/MySQL, Cloud Storage, and WeChat Pay
 - React 19 + Vite operations console with RBAC, payment review, and audit trails
