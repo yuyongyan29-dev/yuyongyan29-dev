@@ -30,15 +30,6 @@ A growth platform for offline businesses, covering store onboarding, business di
 
 `Git` `GitHub Actions` `Product Design` `PRD` `User Research` `Data Analysis`
 
-## 🔄 How I Work
-
-```text
-User Problem → Task Definition → Workflow Design → Tools & Data
-             → Evaluation & Safety Boundaries → Launch Validation → Iteration
-```
-
-Good AI products should do more than sound convincing. They should show evidence, expose uncertainty, refuse unsafe overreach, and deliver reliably inside real workflows.
-
 ## 📬 Contact
 
 - Email: [yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) ✉️
