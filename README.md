@@ -1,64 +1,56 @@
-# 你好，我是蔚勇䶮 👋
+# Hi, I'm Yuyongyan 👋
 
-**AI 产品经理 · Agent Builder · Product Engineer**
+**AI Product Manager · Agent Builder · Product Engineer**
 
-我关注「真实问题如何被 AI 做成可用的产品」：从用户场景、任务拆解、Prompt 与工具调用，到评测、权限、数据流和上线后的迭代。我既做产品判断，也亲自把关键链路写出来。
+I turn real user and business problems into usable AI products — from user research and task definition to workflow design, tool calling, evaluation, permissions, data flows, and production validation. I care about both product decisions and the engineering details that make them work.
 
-目前正在寻找 **AI 产品经理 / Agent 开发 / AI 应用工程** 方向的机会。
+Currently open to opportunities in **AI Product Management, Agent Development, and AI Application Engineering**.
 
-## 我在做什么
+## What I Do
 
-- **Agent 产品**：设计带有明确边界、可追溯证据和人工决策权的工作流，而不是只做聊天 Demo。
-- **AI 应用工程**：使用 Claude Code、Codex 等 coding agents，把需求、代码、测试、文档和评测串成可复用的开发流程。
-- **产品工程**：从 PRD、信息架构和交互，到 TypeScript/Python、云函数、数据模型与发布验证，完整走通闭环。
-- **内容与增长系统**：把小红书/抖音的内容生产、达人协作、投流和复盘沉淀为规则、模板和可执行的系统。
+- **Agent Products**: Design bounded, evidence-aware workflows that preserve human decision-making instead of building chat demos without a clear job to do.
+- **AI Application Engineering**: Use Claude Code, Codex, and coding agents to connect requirements, implementation, testing, documentation, and evaluation into reusable workflows.
+- **Product Engineering**: Work across PRDs, information architecture, interaction design, TypeScript/Python, cloud functions, data models, and release validation.
+- **Content & Growth Systems**: Turn content production, creator collaboration, paid media, and performance reviews into repeatable rules, templates, and operating systems.
 
-## 代表项目
+## Selected Projects
 
-### [jd-radar](https://github.com/yuyongyan29-dev/jd-radar)
+### Commercial WeChat Mini Program & Operations Platform *(Private Project)*
 
-面向中国求职者的本地优先 JD 决策 Agent，运行在 Claude Code / Codex 等 AI coding CLI 中。
+A growth platform for offline businesses, covering store onboarding, business diagnosis, campaign planning, short-video scripts, execution, and retrospectives.
 
-- 三层决策卡：安全层、判断层、行动层
-- 证据分级、未知项管理、动态评分与 HR 追问回填
-- 针对培训贷、外包壳、虚假双休等场景的红旗检测
-- 内置标注集与分项评测，规则迭代可复跑
-- 明确不自动投递、不代替用户做最终决定
+- Native WeChat Mini Program with strict TypeScript, WXML, and WXSS
+- CloudBase Event Cloud Functions, NoSQL/MySQL, Cloud Storage, and WeChat Pay
+- React 19 + Vite operations console with RBAC, payment review, and audit trails
+- Dedicated AI gateway with schema, factuality, and compliance validation
 
-### 商业化微信小程序与运营后台（私有项目）
+### Content Growth & Data Operations
 
-面向线下门店的增长工具，覆盖门店建档、诊断、活动方案、短视频脚本、执行与复盘。
+Managed end-to-end Xiaohongshu operations for a leading home-appliance brand, including content production, creator campaigns, paid traffic, search placement, owned account networks, and content asset management.
 
-- 微信原生小程序 + TypeScript strict + WXML/WXSS
-- CloudBase Event 云函数、NoSQL/MySQL、云存储与微信支付
-- React 19 + Vite 运营后台，RBAC、资金复核与审计
-- 独立 AI 网关，包含结构校验、事实校验和合规校验
+I also redesigned the team workflow around AI: input → processing → validation → editing → archiving, turning ad-hoc content work into a more repeatable operating system.
 
-### 内容增长与数据化运营项目
-
-负责家电品牌小红书全域运营，覆盖内容生产、达人投放、信息流、搜索品专、自有账号矩阵和内容资产沉淀；同时用 AI 重构内容团队的输入、处理、校验、润色与归档流程。
-
-## 技术栈
+## Tech Stack
 
 `Python` `TypeScript` `JavaScript` `HTML/CSS` `SQL`
 
 `Claude Code` `Codex` `Prompt Engineering` `Tool Calling` `RAG` `Evals`
 
-`微信小程序` `CloudBase` `Node.js` `React` `Vite` `MySQL` `NoSQL`
+`WeChat Mini Program` `CloudBase` `Node.js` `React` `Vite` `MySQL` `NoSQL`
 
-`Git` `GitHub Actions` `产品设计` `PRD` `用户研究` `数据分析`
+`Git` `GitHub Actions` `Product Design` `PRD` `User Research` `Data Analysis`
 
-## 我的工作方式
+## How I Work
 
 ```text
-用户问题 → 任务定义 → 工作流设计 → 工具 / 数据接入
-        → 评测与安全边界 → 上线验证 → 反馈迭代
+User Problem → Task Definition → Workflow Design → Tools & Data
+             → Evaluation & Safety Boundaries → Launch Validation → Iteration
 ```
 
-我相信好的 AI 产品不只是「回答得像」，还应该能说明依据、暴露未知、拒绝越界，并且在真实工作流里稳定交付。
+Good AI products should do more than sound convincing. They should show evidence, expose uncertainty, refuse unsafe overreach, and deliver reliably inside real workflows.
 
-## 联系我
+## Contact
 
+- Email: [yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com)
 - GitHub: [@yuyongyan29-dev](https://github.com/yuyongyan29-dev)
-- 方向：AI 产品经理 / Agent 开发 / AI 应用工程
-- 欢迎交流 AI 产品、Agent 工作流、求职安全与内容增长系统
+- Open to: AI Product Manager / Agent Developer / AI Application Engineer roles
