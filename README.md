@@ -7,7 +7,6 @@
 - **🤖 Agent Products**: Design bounded, evidence-aware workflows that preserve human decision-making instead of building chat demos without a clear job to do.
 - **⚙️ AI Application Engineering**: Use Claude Code, Codex, and coding agents to connect requirements, implementation, testing, documentation, and evaluation into reusable workflows.
 - **🧩 Product Engineering**: Work across PRDs, information architecture, interaction design, TypeScript/Python, cloud functions, data models, and release validation.
-- **📈 Content & Growth Systems**: Turn content production, creator collaboration, paid media, and performance reviews into repeatable rules, templates, and operating systems.
 
 ## 🚀 Selected Projects
 
