@@ -2,6 +2,7 @@
 
 ## 🌐 Open Source Contributions
 
+- **[LobeHub](https://github.com/lobehub/lobehub) (★83k+)** — Fixed database migration aborting on Neon when the pg_search install is refused (42501): the migration now skips with a notice, covered by a regression test replaying the shipped migration file. [PR #21517](https://github.com/lobehub/lobehub/pull/21517) · *under review*
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach) (★100k+)** — Fixed outdated Instagram guidance for OpenCLI 2.0 (broken commands + incorrect 429 re-login advice) in the skill capability docs. [PR #838](https://github.com/Panniantong/Agent-Reach/pull/838) · *under review*
 
 At Senbo, I lead two commercial systems: **百万爆店**, a growth platform for offline home-appliance stores (1,000+ B-end store users and ¥200M+ in driven sales within a month of launch), and **鹰眼系统**, a Feishu campaign-execution system covering 30 centers and 1,000+ Hisense stores.
