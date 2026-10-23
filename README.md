@@ -20,6 +20,10 @@ A growth platform for offline businesses, covering store onboarding, business di
 - React 19 + Vite operations console with RBAC, payment review, and audit trails
 - Dedicated AI gateway with schema, factuality, and compliance validation
 
+## 🌐 Open Source Contributions
+
+- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach) (★100k+)** — Fixed outdated Instagram guidance for OpenCLI 2.0 (broken commands + incorrect 429 re-login advice) in the skill capability docs. [PR #838](https://github.com/Panniantong/Agent-Reach/pull/838) · *under review*
+
 ## 🧰 Tech Stack
 
 `Python` `TypeScript` `JavaScript` `HTML/CSS` `SQL`
