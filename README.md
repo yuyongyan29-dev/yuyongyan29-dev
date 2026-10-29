@@ -9,9 +9,19 @@
 
 I lead B2B growth and campaign-execution systems for offline retail, part of a large-scale retail AI deployment.
 
-## 🧰 Stack
+## 🧰 Tech Stack
 
-`TypeScript` `Python` `Rust` · `Claude Code` `Codex` `Evals` · `React` `Node.js` `WeChat Mini Program` `CloudBase` `MySQL / PostgreSQL`
+Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![WeChat Mini Program](https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white)
+
+Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+Agent & AI
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square) ![Evals](https://img.shields.io/badge/Evals-8B5CF6?style=flat-square)
 
 ## 📬 Contact
 
