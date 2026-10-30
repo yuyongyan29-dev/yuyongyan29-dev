@@ -1,15 +1,26 @@
-👋 Hey, I'm **Yuyongyan** — AI Product Manager & Product Engineer based in Hangzhou. I design and ship agent products end to end with Claude Code / Codex, from PRD to production code. Creator of [Bree](https://github.com/yuyongyan29-dev/bree) · [jd-radar](https://github.com/yuyongyan29-dev/jd-radar) · [Claude Pet](https://github.com/yuyongyan29-dev/claude-pet) · [ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap).
+👋 Hi, I'm **Yuyongyan (yanyan)** — AI Product Manager & Product Engineer in Hangzhou. I design and ship agent products end to end with Claude Code / Codex, from PRD to production code.
 
-## 🌐 Open Source Contributions
+## 🌐 Open Source Contributions (in review)
+| Project | PR | What |
+|---|---|---|
+| [Ollama](https://github.com/ollama/ollama) | [#19284](https://github.com/ollama/ollama/pull/19284) | Scheduler no longer evicts CPU-only models for GPU memory predictions |
+| [Neovim](https://github.com/neovim/neovim) | [#42523](https://github.com/neovim/neovim/pull/42523) | Refresh loop time before arming timeout timer |
+| [Vue.js](https://github.com/vuejs/core) | [#15999](https://github.com/vuejs/core/pull/15999) | compiler-sfc: support resolving type imports with TypeScript 7 |
+| [Dify](https://github.com/langgenius/dify) | [#44666](https://github.com/langgenius/dify/pull/44666) | Preserve stored text cells when extracting legacy .xls files |
+| [LobeHub](https://github.com/lobehub/lobehub) | [#21517](https://github.com/lobehub/lobehub/pull/21517) | Continue DB migration when the provider refuses pg_search install |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#838](https://github.com/Panniantong/Agent-Reach/pull/838) | Docs: mark Instagram commands broken on OpenCLI 2.0, fix 429 guidance |
+| [Biome](https://github.com/biomejs/biome) | [#12721](https://github.com/biomejs/biome/pull/12721) | `noUnknownAttribute` accepts Popover API attributes |
+| [Feishin](https://github.com/jeffvli/feishin) | [#2671](https://github.com/jeffvli/feishin/pull/2671) | Reject non-image bodies for Navidrome thumbnails |
 
-- **[Feishin](https://github.com/jeffvli/feishin) (★10k+)** — Fixed Navidrome song table thumbnails rendering as broken images: useNativeImage now rejects HTTP 200 non-image bodies (for example Navidrome's XML error envelope for unresolvable artwork) before creating an object URL, falling back to the existing placeholder, covered by guard-script checks. [PR #2671](https://github.com/jeffvli/feishin/pull/2671) · *under review*
-- **[Biome](https://github.com/biomejs/biome) (★26k+)** — Fixed `noUnknownAttribute` false-positiving Popover API attributes with no package manifest: `popoverTarget` and `popoverTargetAction` are now accepted as-is instead of demanding the lowercase HTML spellings, covered by a regression test. [PR #12721](https://github.com/biomejs/biome/pull/12721) · *under review*
-- **[Ollama](https://github.com/ollama/ollama) (★184k+)** — Fixed the scheduler evicting a CPU-only model to satisfy a GPU memory prediction: pre-flight eviction now only triggers when a loaded runner actually holds VRAM, and GPU-fit eviction prefers VRAM holders, covered by regression tests. [PR #19284](https://github.com/ollama/ollama/pull/19284) · *under review*
-- 另有 5 个在审 PR：[Neovim](https://github.com/neovim/neovim) [PR #42523](https://github.com/neovim/neovim/pull/42523) · [Vue.js](https://github.com/vuejs/core) [PR #15999](https://github.com/vuejs/core/pull/15999) · [Dify](https://github.com/langgenius/dify) [PR #44666](https://github.com/langgenius/dify/pull/44666) · [LobeHub](https://github.com/lobehub/lobehub) [PR #21517](https://github.com/lobehub/lobehub/pull/21517) · [Agent-Reach](https://github.com/Panniantong/Agent-Reach) [PR #838](https://github.com/Panniantong/Agent-Reach/pull/838) · *under review*
+## 🛠 Things I Built
+- **[Bree](https://github.com/yuyongyan29-dev/Bree)** — macOS memory inspector TUI with AI/dev-tool labels (`brew install` via my tap)
+- **[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)** — local job-decision agent for Claude Code / Codex
+- **[agent-town](https://github.com/yuyongyan29-dev/agent-town)** — your coding agents as a living 3D miniature town
+- **[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)** — a pixel pet above your Claude Code prompt
+- **[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)** — 37-week roadmap to production AI agent engineering
 
-I lead B2B growth and campaign-execution systems for offline retail, part of a large-scale retail AI deployment.
-
-Beyond agent products, I also build websites and apps end to end — React web consoles, WeChat Mini Programs, and Feishu apps.
+## 💼 Work
+Lead PM for B2B growth and campaign-execution systems for offline retail (Feishu apps, WeChat Mini Programs, React consoles).
 
 ## 🧰 Tech Stack
 
@@ -30,4 +41,4 @@ Agent & AI
 
 ## 📬 Contact
 
-[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · Open to AI Product Manager / Agent roles in Hangzhou
+[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · X [@wei_yan77180](https://x.com/wei_yan77180) · Open to AI PM / Agent roles
