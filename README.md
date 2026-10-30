@@ -9,8 +9,6 @@
 | [Dify](https://github.com/langgenius/dify) | [#44666](https://github.com/langgenius/dify/pull/44666) | Preserve stored text cells when extracting legacy .xls files |
 | [LobeHub](https://github.com/lobehub/lobehub) | [#21517](https://github.com/lobehub/lobehub/pull/21517) | Continue DB migration when the provider refuses pg_search install |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [#838](https://github.com/Panniantong/Agent-Reach/pull/838) | Docs: mark Instagram commands broken on OpenCLI 2.0, fix 429 guidance |
-| [Biome](https://github.com/biomejs/biome) | [#12721](https://github.com/biomejs/biome/pull/12721) | `noUnknownAttribute` accepts Popover API attributes |
-| [Feishin](https://github.com/jeffvli/feishin) | [#2671](https://github.com/jeffvli/feishin/pull/2671) | Reject non-image bodies for Navidrome thumbnails |
 
 ## 🛠 Things I Built
 - **[Bree](https://github.com/yuyongyan29-dev/Bree)** — macOS memory inspector TUI with AI/dev-tool labels (`brew install` via my tap)
