@@ -31,8 +31,7 @@ AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agen
 
 | Project | Pull Request | Status |
 |---|---|---|
-| [HeyForm](https://github.com/heyform/heyform) | [#380 — fix(webapp): use the themed select for "Next question" in logic](https://github.com/heyform/heyform/pull/380) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
-| [HeyForm](https://github.com/heyform/heyform) | [#391 — fix(webapp): use dark color-scheme for native selects](https://github.com/heyform/heyform/pull/391) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
+| [HeyForm](https://github.com/heyform/heyform) | [#380](https://github.com/heyform/heyform/pull/380) themed select for "Next question"; [#391](https://github.com/heyform/heyform/pull/391) dark color-scheme for native selects | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
 
 **In review:** [Dify #44666](https://github.com/langgenius/dify/pull/44666) (legacy .xls text cells), [LobeHub #21517](https://github.com/lobehub/lobehub/pull/21517) (pg_search migration), [Ollama #19284](https://github.com/ollama/ollama/pull/19284) (CPU-only runner eviction) and [Vue #15999](https://github.com/vuejs/core/pull/15999) (TypeScript 7 type imports).
 
