@@ -33,7 +33,7 @@ AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agen
 |---|---|---|
 | [HeyForm](https://github.com/heyform/heyform) | [#380 — fix(webapp): use the themed select for "Next question" in logic](https://github.com/heyform/heyform/pull/380) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
 
-**In review:** fixes to [Dify #44666](https://github.com/langgenius/dify/pull/44666) (legacy .xls text cells), [LobeHub #21517](https://github.com/lobehub/lobehub/pull/21517) (pg_search migration), [Ollama #19284](https://github.com/ollama/ollama/pull/19284) (CPU-only runner eviction) and [Vue #15999](https://github.com/vuejs/core/pull/15999) (TypeScript 7 type imports).
+**In review:** [HeyForm #391](https://github.com/heyform/heyform/pull/391) (native select dark color-scheme), [Dify #44666](https://github.com/langgenius/dify/pull/44666) (legacy .xls text cells), [LobeHub #21517](https://github.com/lobehub/lobehub/pull/21517) (pg_search migration), [Ollama #19284](https://github.com/ollama/ollama/pull/19284) (CPU-only runner eviction) and [Vue #15999](https://github.com/vuejs/core/pull/15999) (TypeScript 7 type imports).
 
 ## 🚀 Things I Built
 
