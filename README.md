@@ -45,7 +45,7 @@ AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agen
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-yuyongyan29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuyongyan29@gmail.com)
-[![X](https://img.shields.io/badge/X-@wei__yan77180-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wei_yan77180)
+- Email: [yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com)
+- X: [@wei_yan77180](https://x.com/wei_yan77180)
 
 Open to AI PM / Agent roles.
