@@ -31,7 +31,7 @@ AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agen
 
 | Project | Pull Request | Status |
 |---|---|---|
-| [HeyForm](https://github.com/heyform/heyform) | [#380](https://github.com/heyform/heyform/pull/380) themed select for "Next question"; [#391](https://github.com/heyform/heyform/pull/391) dark color-scheme for native selects; [#393](https://github.com/heyform/heyform/pull/393) date logic parsed with the field format | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
+| [HeyForm](https://github.com/heyform/heyform) | [#380](https://github.com/heyform/heyform/pull/380) themed select for "Next question"; [#391](https://github.com/heyform/heyform/pull/391) dark color-scheme for native selects; [#393](https://github.com/heyform/heyform/pull/393) date logic parsed with the field format; [#401](https://github.com/heyform/heyform/pull/401) form report ignores skipped answers | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
 
 
 ## 🚀 Things I Built
