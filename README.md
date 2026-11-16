@@ -1,36 +1,34 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
+  <img src="./assets/banner.svg" alt="yanyan. Product × Engineering × Open Source" width="840">
+</picture>
+
 # Hi, I'm yanyan.
 
 **AI Product Manager · Product Engineer · Open-source contributor**
 
-Based in Hangzhou, China. I design agent products and build them end to end, from PRDs to working software, with AI coding agents such as Claude Code and Codex.
+Based in Hangzhou, China. I design agent products and build them end to end, from PRDs to working software, with Claude Code and Codex.
 
-I'm interested in useful developer tools, local-first agents, and fixing the details that make software work better.
+Useful developer tools, local-first agents, and the details that make software work better.
 
-## Current work
+[Upstream](#01--merged-upstream) · [Projects](#02--personal-projects) · [Current work](#03--current-work) · [Contact](#get-in-touch)
 
-Currently at cenbo, building AI-enabled products and internal business systems.
+## 01 / Merged upstream
 
-- Enterprise operations & AI assistants: business workflows and employee self-service.
-- Retail growth products: campaign planning, AI-assisted content and operational follow-through.
-- Campaign execution tools: mobile workflows, progress tracking and reporting for store teams.
+Small fixes, concrete improvements. Selected contributions merged into the upstream repositories:
 
-Company projects are private.
-
-## Open source
-
-Selected contributions merged upstream:
-
-**[Effect](https://github.com/Effect-TS/effect)**  
+### [Effect](https://github.com/Effect-TS/effect)
 Preserve Unicode letters, combining marks, and numbers in string case helpers and derived configuration keys.  
-[PR #10638](https://github.com/Effect-TS/effect/pull/10638)
+[Unicode case helpers #10638](https://github.com/Effect-TS/effect/pull/10638)
 
-**[HeyForm](https://github.com/heyform/heyform)**  
-Improve dark-mode select readability, parse date conditions using the field's format, and exclude skipped answers from report statistics.  
-[Themed select #380](https://github.com/heyform/heyform/pull/380) · [Native selects #391](https://github.com/heyform/heyform/pull/391) · [Date logic #393](https://github.com/heyform/heyform/pull/393) · [Report accuracy #401](https://github.com/heyform/heyform/pull/401)
+### [HeyForm](https://github.com/heyform/heyform)
+- **Readable forms:** improve dark-mode selects. [Themed select #380](https://github.com/heyform/heyform/pull/380) · [Native selects #391](https://github.com/heyform/heyform/pull/391)
+- **Correct dates:** respect the field's date format in conditions and when restoring saved answers. [Date logic #393](https://github.com/heyform/heyform/pull/393) · [Stored dates #406](https://github.com/heyform/heyform/pull/406)
+- **Accurate reports:** exclude skipped answers from report statistics. [Report accuracy #401](https://github.com/heyform/heyform/pull/401)
 
 [Explore my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
 
-## Personal projects
+## 02 / Personal projects
 
 ### [Bree](https://github.com/yuyongyan29-dev/Bree)
 A local macOS memory inspector with a keyboard-driven TUI. See which apps and processes use memory, with labels for AI and developer tools.  
@@ -44,10 +42,20 @@ Python · AI agents · Decision support
 Visualize local AI coding agents as a living 3D miniature town.  
 JavaScript · Visualization · AI coding tools
 
-## Experiments & resources
+### Experiments & resources
 
 - [claude-pet](https://github.com/yuyongyan29-dev/claude-pet) — a pixel pet that lives above your Claude Code prompt.
 - [ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap) — a 37-week learning path toward production AI agent engineering.
+
+## 03 / Current work
+
+Currently at cenbo, building AI-enabled products and internal business systems.
+
+- Enterprise operations & AI assistants: business workflows and employee self-service.
+- Retail growth products: campaign planning, AI-assisted content and operational follow-through.
+- Campaign execution tools: mobile workflows, progress tracking and reporting for store teams.
+
+Company projects are private.
 
 ## Get in touch
 
