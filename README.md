@@ -32,6 +32,7 @@ AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agen
 | Project | Pull Request | Status |
 |---|---|---|
 | [HeyForm](https://github.com/heyform/heyform) | [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) · [#393](https://github.com/heyform/heyform/pull/393) · [#401](https://github.com/heyform/heyform/pull/401) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
+| [Effect](https://github.com/Effect-TS/effect) | [#10638](https://github.com/Effect-TS/effect/pull/10638) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
 
 
 ## 🚀 Things I Built
