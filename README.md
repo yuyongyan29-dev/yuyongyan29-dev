@@ -1,51 +1,46 @@
-<div align="center" markdown="1">
+# Hi, I'm yanyan.
 
-<a href="https://github.com/yuyongyan29-dev"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+yanyan+%F0%9F%91%8B;AI+Product+Manager;Open-source+contributor" /></a>
+**AI Product Manager · Product Engineer · Open-source contributor**
 
-</div>
+Based in Hangzhou, China. I design agent products and build them end to end, from PRDs to working software, with AI coding agents such as Claude Code and Codex.
 
-AI Product Manager & Product Engineer in **Hangzhou, China** 📍. I design agent products and build them end to end with AI coding agents (Claude Code / Codex), from PRD to production code — and I contribute fixes to open-source projects.
+I'm interested in useful developer tools, local-first agents, and fixing the details that make software work better.
 
-<div align="center" markdown="1">
+## Open source
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuyongyan29-dev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&disable_animations=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuyongyan29-dev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&disable_animations=true" alt="Top languages" />
+Selected contributions merged upstream:
 
-<img src="https://streak-stats.demolab.com?user=yuyongyan29-dev&theme=github-dark-blue&hide_border=true&disable_animations=true" alt="GitHub streak" />
+**[Effect](https://github.com/Effect-TS/effect)**  
+Preserve Unicode letters, combining marks, and numbers in string case helpers and derived configuration keys.  
+[PR #10638](https://github.com/Effect-TS/effect/pull/10638)
 
-</div>
+**[HeyForm](https://github.com/heyform/heyform)**  
+Improve dark-mode select readability, parse date conditions using the field's format, and exclude skipped answers from report statistics.  
+[Themed select #380](https://github.com/heyform/heyform/pull/380) · [Native selects #391](https://github.com/heyform/heyform/pull/391) · [Date logic #393](https://github.com/heyform/heyform/pull/393) · [Report accuracy #401](https://github.com/heyform/heyform/pull/401)
 
-## 🛠 Tech Stack
+[Explore my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20%2F%20AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+## Selected projects
 
-## 🌐 Open Source Contributions
+### [Bree](https://github.com/yuyongyan29-dev/Bree)
+A local macOS memory inspector with a keyboard-driven TUI. See which apps and processes use memory, with labels for AI and developer tools.  
+Rust · macOS · Developer tooling
 
-**Merged**
+### [jd-radar](https://github.com/yuyongyan29-dev/jd-radar)
+A local job-decision agent for Chinese job seekers, running in Claude Code or Codex. Turns job descriptions into decision cards, flags risks, and prepares follow-up questions.  
+Python · AI agents · Decision support
 
-| Project | Pull Request | Status |
-|---|---|---|
-| [HeyForm](https://github.com/heyform/heyform) | [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) · [#393](https://github.com/heyform/heyform/pull/393) · [#401](https://github.com/heyform/heyform/pull/401) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
-| [Effect](https://github.com/Effect-TS/effect) | [#10638](https://github.com/Effect-TS/effect/pull/10638) | ![merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
+### [agent-town](https://github.com/yuyongyan29-dev/agent-town)
+Visualize local AI coding agents as a living 3D miniature town.  
+JavaScript · Visualization · AI coding tools
 
+## Experiments & resources
 
-## 🚀 Things I Built
+- [claude-pet](https://github.com/yuyongyan29-dev/claude-pet) — a pixel pet that lives above your Claude Code prompt.
+- [ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap) — a 37-week learning path toward production AI agent engineering.
 
-- **[Bree](https://github.com/yuyongyan29-dev/Bree)** — macOS memory inspector TUI with AI/dev-tool labels
-- **[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)** — local job-decision agent for Claude Code / Codex
-- **[agent-town](https://github.com/yuyongyan29-dev/agent-town)** — your coding agents as a 3D miniature town
-- **[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)** — a pixel pet above your Claude Code prompt
-- **[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)** — 37-week roadmap to production agent engineering
+## Get in touch
 
-## 📫 Contact
+[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · [X / @wei_yan77180](https://x.com/wei_yan77180)
 
-- Email: [yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com)
-- X: [@wei_yan77180](https://x.com/wei_yan77180)
-
-Open to AI PM / Agent roles.
+Open to AI PM and Agent roles.
