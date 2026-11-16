@@ -6,6 +6,16 @@ Based in Hangzhou, China. I design agent products and build them end to end, fro
 
 I'm interested in useful developer tools, local-first agents, and fixing the details that make software work better.
 
+## Current work
+
+Currently at cenbo, building AI-enabled products and internal business systems.
+
+- Enterprise operations & AI assistants: business workflows and employee self-service.
+- Retail growth products: campaign planning, AI-assisted content and operational follow-through.
+- Campaign execution tools: mobile workflows, progress tracking and reporting for store teams.
+
+Company projects are private.
+
 ## Open source
 
 Selected contributions merged upstream:
@@ -20,7 +30,7 @@ Improve dark-mode select readability, parse date conditions using the field's fo
 
 [Explore my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
 
-## Selected projects
+## Personal projects
 
 ### [Bree](https://github.com/yuyongyan29-dev/Bree)
 A local macOS memory inspector with a keyboard-driven TUI. See which apps and processes use memory, with labels for AI and developer tools.  
