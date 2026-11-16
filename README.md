@@ -1,8 +1,3 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
-  <img src="./assets/banner.svg" alt="yanyan. Product × Engineering × Open Source" width="840">
-</picture>
-
 # Hi, I'm yanyan.
 
 **AI Product Manager · Product Engineer · Open-source contributor**
