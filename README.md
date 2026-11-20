@@ -1,63 +1,58 @@
-# Hi, I'm yanyan.
+# yanyan
 
-**AI Product Manager · Product Engineer · Open-source contributor**
+AI product manager in Hangzhou. I design agent products and ship them end to end, from the PRD to working software, with Claude Code and Codex.
 
-Based in Hangzhou, China. I design agent products and build them end to end, from PRDs to working software, with Claude Code and Codex.
+I care about useful developer tools, local-first agents, and the small details that make software behave correctly.
 
-Useful developer tools, local-first agents, and the details that make software work better.
+[Open source](#open-source) · [Projects](#projects) · [Now](#now) · [Contact](#contact)
 
-[Upstream](#01--merged-upstream) · [Projects](#02--personal-projects) · [Current work](#03--current-work) · [Contact](#get-in-touch)
+---
 
-## 01 / Merged upstream
+## Open source
 
-Small fixes, concrete improvements. Selected contributions merged into the upstream repositories:
+Small, well-tested fixes merged upstream. Each one starts from a real reproduction.
 
-### [mruby](https://github.com/mruby/mruby)
-Parse numeric strings longer than 80 bytes correctly in `String#to_f` and `Float()`, and decode unpadded trailing base64 groups in `unpack("m")`.  
-[Long float strings #7847](https://github.com/mruby/mruby/pull/7847) · [Unpadded base64 #7849](https://github.com/mruby/mruby/pull/7849)
+| Project | What changed | PR |
+| --- | --- | --- |
+| [mruby](https://github.com/mruby/mruby) | `unpack("m")` keeps the last bytes of base64 input that has no `=` padding | [#7849](https://github.com/mruby/mruby/pull/7849) |
+| [mruby](https://github.com/mruby/mruby) | `String#to_f` and `Float()` parse numbers longer than 80 bytes instead of returning `Infinity` | [#7847](https://github.com/mruby/mruby/pull/7847) |
+| [Effect](https://github.com/Effect-TS/effect) | String case helpers keep Unicode letters, combining marks, and digits | [#10638](https://github.com/Effect-TS/effect/pull/10638) |
+| [HeyForm](https://github.com/heyform/heyform) | Saved dates restore with the field's own date format | [#406](https://github.com/heyform/heyform/pull/406) |
+| [HeyForm](https://github.com/heyform/heyform) | Reports no longer count skipped optional answers as zero | [#401](https://github.com/heyform/heyform/pull/401) |
+| [HeyForm](https://github.com/heyform/heyform) | Date conditions in logic respect the field's date format | [#393](https://github.com/heyform/heyform/pull/393) |
+| [HeyForm](https://github.com/heyform/heyform) | Selects stay readable in dark mode | [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) |
 
-### [Effect](https://github.com/Effect-TS/effect)
-Preserve Unicode letters, combining marks, and numbers in string case helpers and derived configuration keys.  
-[Unicode case helpers #10638](https://github.com/Effect-TS/effect/pull/10638)
+[All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
 
-### [HeyForm](https://github.com/heyform/heyform)
-- **Readable forms:** improve dark-mode selects. [Themed select #380](https://github.com/heyform/heyform/pull/380) · [Native selects #391](https://github.com/heyform/heyform/pull/391)
-- **Correct dates:** respect the field's date format in conditions and when restoring saved answers. [Date logic #393](https://github.com/heyform/heyform/pull/393) · [Stored dates #406](https://github.com/heyform/heyform/pull/406)
-- **Accurate reports:** exclude skipped answers from report statistics. [Report accuracy #401](https://github.com/heyform/heyform/pull/401)
+## Projects
 
-[Explore my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
+**[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)**: Clawd, a pixel pet that lives above your Claude Code prompt.  
+<sub>TypeScript · Claude Code plugin</sub>
 
-## 02 / Personal projects
+**[agent-town](https://github.com/yuyongyan29-dev/agent-town)**: your local AI coding agents, drawn as a living 3D miniature town.  
+<sub>JavaScript · Visualization</sub>
 
-### [Bree](https://github.com/yuyongyan29-dev/Bree)
-A local macOS memory inspector with a keyboard-driven TUI. See which apps and processes use memory, with labels for AI and developer tools.  
-Rust · macOS · Developer tooling
+**[Bree](https://github.com/yuyongyan29-dev/Bree)**: a macOS memory inspector with a keyboard-driven TUI that labels AI and developer tools.  
+<sub>Rust · macOS · Developer tooling</sub>
 
-### [jd-radar](https://github.com/yuyongyan29-dev/jd-radar)
-A local job-decision agent for Chinese job seekers, running in Claude Code or Codex. Turns job descriptions into decision cards, flags risks, and prepares follow-up questions.  
-Python · AI agents · Decision support
+**[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)**: a local job-decision agent for Chinese job seekers. It turns job descriptions into decision cards, flags red flags, and drafts follow-up questions.  
+<sub>Python · AI agents</sub>
 
-### [agent-town](https://github.com/yuyongyan29-dev/agent-town)
-Visualize local AI coding agents as a living 3D miniature town.  
-JavaScript · Visualization · AI coding tools
+**[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)**: a 37-week path from zero to production AI agent engineering, with runnable code at every step.  
+<sub>Python · Learning path</sub>
 
-### Experiments & resources
+## Now
 
-- [claude-pet](https://github.com/yuyongyan29-dev/claude-pet) — a pixel pet that lives above your Claude Code prompt.
-- [ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap) — a 37-week learning path toward production AI agent engineering.
+Building AI-enabled products and internal business systems at cenbo:
 
-## 03 / Current work
-
-Currently at cenbo, building AI-enabled products and internal business systems.
-
-- Enterprise operations & AI assistants: business workflows and employee self-service.
-- Retail growth products: campaign planning, AI-assisted content and operational follow-through.
-- Campaign execution tools: mobile workflows, progress tracking and reporting for store teams.
+- AI assistants for enterprise operations and employee self-service
+- Retail growth tools for campaign planning and AI-assisted content
+- Mobile campaign execution, progress tracking, and reporting for store teams
 
 Company projects are private.
 
-## Get in touch
+## Contact
 
-[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · [X / @wei_yan77180](https://x.com/wei_yan77180)
+[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · [X @wei_yan77180](https://x.com/wei_yan77180)
 
-Open to AI PM and Agent roles.
+Open to AI PM and agent roles.
