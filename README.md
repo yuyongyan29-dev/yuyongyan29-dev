@@ -1,69 +1,37 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="yanyan, AI product manager who ships agent products end to end" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="yanyan. I build agents that do the work, and fix the small things that break." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <br>
+<br>
 
-I design agent products and build them end to end, from the PRD to working software, with Claude Code and Codex. On the side I fix real bugs in open-source projects, each one starting from a reproduction and ending with a regression test.
+I design agent products and build them myself, from the first document to working software. In between, I fix bugs in open-source projects I use. Each fix starts with a reproduction and ends with a test.
 
-## Merged upstream
+<br>
 
-| | Project | What I fixed | PRs |
-| :-: | --- | --- | :-: |
-| <img src="https://github.com/mruby.png?size=40" width="20"> | **[mruby](https://github.com/mruby/mruby)** | Long float strings in `String#to_f` and `Float()`; base64 `unpack("m")` without `=` padding | [2&nbsp;merged](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
-| <img src="https://github.com/Effect-TS.png?size=40" width="20"> | **[Effect](https://github.com/Effect-TS/effect)** | Unicode letters, combining marks, and digits in string case helpers | [1&nbsp;merged](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **[HeyForm](https://github.com/heyform/heyform)** | Date formats in form logic and saved answers, report stats with skipped answers, dark-mode selects | [5&nbsp;merged](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+### Upstream
 
-<sub>[Every pull request I've opened →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)</sub>
+**[mruby](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;Long float strings and unpadded base64 now parse correctly.&ensp;<sub>2 merged</sub>  
+**[Effect](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;String case helpers keep Unicode letters and marks.&ensp;<sub>1 merged</sub>  
+**[HeyForm](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;Dates, report statistics, and dark-mode selects behave as expected.&ensp;<sub>5 merged</sub>
 
-## Things I've built
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Made
 
-**[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)**  
-Clawd, a pixel pet that lives above your Claude Code prompt.
+**[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)**&ensp;A pixel pet that lives above your Claude Code prompt.  
+**[agent-town](https://github.com/yuyongyan29-dev/agent-town)**&ensp;Your local coding agents, as a small 3D town.  
+**[Bree](https://github.com/yuyongyan29-dev/Bree)**&ensp;A quiet macOS memory inspector for the terminal.  
+**[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)**&ensp;A local agent that reads job descriptions so you don't have to guess.  
+**[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)**&ensp;Thirty-seven weeks from zero to production agents.
 
-<sub>TypeScript · Claude Code plugin</sub>
+<br>
 
-</td>
-<td width="50%" valign="top">
+### Now
 
-**[agent-town](https://github.com/yuyongyan29-dev/agent-town)**  
-Watch your local coding agents at work as a living 3D miniature town.
+Building AI assistants and internal tools at cenbo. That work is private.
 
-<sub>JavaScript · 3D visualization</sub>
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Bree](https://github.com/yuyongyan29-dev/Bree)**  
-A keyboard-driven macOS memory inspector that labels AI and developer tools.
-
-<sub>Rust · TUI · macOS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)**  
-A local agent that turns Chinese job descriptions into decision cards, with red flags and follow-up questions.
-
-<sub>Python · Claude Code / Codex agent</sub>
-
-</td>
-</tr>
-</table>
-
-Also: **[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)**, a 37-week path from zero to production AI agent engineering, with runnable code at every step.
-
-## Right now
-
-At cenbo, building AI assistants for enterprise operations, growth tools for retail campaigns, and mobile workflows for store teams. That work is private.
-
-## Say hi
-
-[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com) · [X @wei_yan77180](https://x.com/wei_yan77180) · open to AI PM and agent roles
+<sub>[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com)&ensp;·&ensp;[@wei_yan77180](https://x.com/wei_yan77180)&ensp;·&ensp;Open to AI PM and agent roles</sub>
