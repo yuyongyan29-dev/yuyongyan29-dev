@@ -9,15 +9,11 @@ I design agent products and build them end to end, from the PRD to working softw
 
 ## Merged upstream
 
-| | Project | Fix | PR |
-| :-: | --- | --- | --- |
-| <img src="https://github.com/mruby.png?size=40" width="20"> | **mruby** | `unpack("m")` no longer drops the tail of base64 input without `=` padding | [#7849](https://github.com/mruby/mruby/pull/7849) |
-| <img src="https://github.com/mruby.png?size=40" width="20"> | **mruby** | `String#to_f` and `Float()` parse numbers longer than 80 bytes instead of returning `Infinity` | [#7847](https://github.com/mruby/mruby/pull/7847) |
-| <img src="https://github.com/Effect-TS.png?size=40" width="20"> | **Effect** | String case helpers keep Unicode letters, combining marks, and digits | [#10638](https://github.com/Effect-TS/effect/pull/10638) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **HeyForm** | Saved dates restore with the field's own date format | [#406](https://github.com/heyform/heyform/pull/406) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **HeyForm** | Reports stop counting skipped optional answers as zero | [#401](https://github.com/heyform/heyform/pull/401) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **HeyForm** | Date conditions in form logic respect the field's format | [#393](https://github.com/heyform/heyform/pull/393) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **HeyForm** | Selects stay readable in dark mode | [#380](https://github.com/heyform/heyform/pull/380) [#391](https://github.com/heyform/heyform/pull/391) |
+| | Project | What I fixed | PRs |
+| :-: | --- | --- | :-: |
+| <img src="https://github.com/mruby.png?size=40" width="20"> | **[mruby](https://github.com/mruby/mruby)** | Long float strings in `String#to_f` and `Float()`; base64 `unpack("m")` without `=` padding | [2 merged](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+| <img src="https://github.com/Effect-TS.png?size=40" width="20"> | **[Effect](https://github.com/Effect-TS/effect)** | Unicode letters, combining marks, and digits in string case helpers | [1 merged](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+| <img src="https://github.com/heyform.png?size=40" width="20"> | **[HeyForm](https://github.com/heyform/heyform)** | Date formats in form logic and saved answers, report stats with skipped answers, dark-mode selects | [5 merged](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
 
 <sub>[Every pull request I've opened →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)</sub>
 
