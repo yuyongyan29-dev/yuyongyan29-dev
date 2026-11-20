@@ -12,15 +12,11 @@ I care about useful developer tools, local-first agents, and the small details t
 
 Small, well-tested fixes merged upstream. Each one starts from a real reproduction.
 
-| Project | What changed | PR |
+| Project | What changed | PRs |
 | --- | --- | --- |
-| [mruby](https://github.com/mruby/mruby) | `unpack("m")` keeps the last bytes of base64 input that has no `=` padding | [#7849](https://github.com/mruby/mruby/pull/7849) |
-| [mruby](https://github.com/mruby/mruby) | `String#to_f` and `Float()` parse numbers longer than 80 bytes instead of returning `Infinity` | [#7847](https://github.com/mruby/mruby/pull/7847) |
+| [mruby](https://github.com/mruby/mruby) | `unpack("m")` keeps the last bytes of base64 input without `=` padding; `String#to_f` and `Float()` parse numbers longer than 80 bytes | [#7849](https://github.com/mruby/mruby/pull/7849) · [#7847](https://github.com/mruby/mruby/pull/7847) |
 | [Effect](https://github.com/Effect-TS/effect) | String case helpers keep Unicode letters, combining marks, and digits | [#10638](https://github.com/Effect-TS/effect/pull/10638) |
-| [HeyForm](https://github.com/heyform/heyform) | Saved dates restore with the field's own date format | [#406](https://github.com/heyform/heyform/pull/406) |
-| [HeyForm](https://github.com/heyform/heyform) | Reports no longer count skipped optional answers as zero | [#401](https://github.com/heyform/heyform/pull/401) |
-| [HeyForm](https://github.com/heyform/heyform) | Date conditions in logic respect the field's date format | [#393](https://github.com/heyform/heyform/pull/393) |
-| [HeyForm](https://github.com/heyform/heyform) | Selects stay readable in dark mode | [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) |
+| [HeyForm](https://github.com/heyform/heyform) | Saved dates and date logic respect the field's format; reports skip unanswered optional questions; selects stay readable in dark mode | [#406](https://github.com/heyform/heyform/pull/406) · [#401](https://github.com/heyform/heyform/pull/401) · [#393](https://github.com/heyform/heyform/pull/393) · [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) |
 
 [All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)
 
