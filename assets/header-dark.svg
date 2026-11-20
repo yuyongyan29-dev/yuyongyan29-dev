@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="yanyan, AI product manager who ships agent products and upstream fixes">
+<rect x="0.5" y="0.5" width="899" height="199" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="92" font-size="52" font-weight="700" fill="#e6edf3" letter-spacing="-1.5">yanyan<tspan fill="#7ee787">_</tspan></text>
+<text x="42" y="126" font-size="17" fill="#7d8590">AI PM shipping agent products end to end</text>
+<text x="42" y="152" font-size="14" fill="#7d8590">Hangzhou · Claude Code · Codex · open source</text>
+</g>
+<line x1="440" y1="36" x2="440" y2="164" stroke="#30363d"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+<text x="470" y="50" fill="#7d8590">$ git log --merged upstream</text>
+<text x="470" y="78"><tspan fill="#7ee787">✓</tspan> <tspan fill="#7d8590">mruby#7849</tspan> <tspan fill="#e6edf3">decode unpadded trailing base64 group</tspan></text>
+<text x="470" y="102"><tspan fill="#7ee787">✓</tspan> <tspan fill="#7d8590">mruby#7847</tspan> <tspan fill="#e6edf3">parse float strings longer than 80 bytes</tspan></text>
+<text x="470" y="126"><tspan fill="#7ee787">✓</tspan> <tspan fill="#7d8590">effect#10638</tspan> <tspan fill="#e6edf3">keep Unicode letters in case helpers</tspan></text>
+<text x="470" y="150"><tspan fill="#7ee787">✓</tspan> <tspan fill="#7d8590">heyform#406</tspan> <tspan fill="#e6edf3">restore saved dates with field format</tspan></text>
+</g>
+</svg>
