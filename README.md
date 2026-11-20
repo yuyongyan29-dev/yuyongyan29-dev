@@ -12,6 +12,10 @@ Useful developer tools, local-first agents, and the details that make software w
 
 Small fixes, concrete improvements. Selected contributions merged into the upstream repositories:
 
+### [mruby](https://github.com/mruby/mruby)
+Parse numeric strings longer than 80 bytes correctly in `String#to_f` and `Float()`, instead of returning `Infinity` or dropping digits.  
+[Long float strings #7847](https://github.com/mruby/mruby/pull/7847)
+
 ### [Effect](https://github.com/Effect-TS/effect)
 Preserve Unicode letters, combining marks, and numbers in string case helpers and derived configuration keys.  
 [Unicode case helpers #10638](https://github.com/Effect-TS/effect/pull/10638)
