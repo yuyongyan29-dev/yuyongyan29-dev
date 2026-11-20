@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="152" viewBox="0 0 360 152" role="img" aria-labelledby="title desc">
+  <title id="title">yanyan · Product × Engineering × Open Source</title>
+  <desc id="desc">A compact product workbench on a warm paper canvas with a green accent.</desc>
+  <rect width="360" height="152" rx="10" fill="#f4f1e9"/>
+  <path d="M16 16h10M16 16v10M344 136h-10M344 136v-10" fill="none" stroke="#797f70" stroke-width="1.5"/>
+  <rect x="25" y="29" width="5" height="50" rx="2.5" fill="#43663b"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#203021">
+    <text x="42" y="72" font-size="52" font-weight="700" letter-spacing="-2">yanyan<tspan fill="#43663b">.</tspan></text>
+    <text x="26" y="106" font-size="15" font-weight="700" letter-spacing="1">PRODUCT × ENGINEERING</text>
+    <text x="26" y="129" font-size="15" font-weight="700" letter-spacing="1">× OPEN SOURCE</text>
+  </g>
+  <g fill="none" stroke="#43663b" stroke-width="2">
+    <rect x="274" y="31" width="52" height="45" rx="8"/>
+    <path d="M292 43l-6 10 6 10M308 43l6 10-6 10"/>
+  </g>
+</svg>
