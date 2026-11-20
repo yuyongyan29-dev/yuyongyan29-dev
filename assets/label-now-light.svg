@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="64" viewBox="0 0 960 64" role="img" aria-label="Now">
+<text x="4" y="42" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="28" fill="#191918">Now<tspan fill="#C15F3C">.</tspan></text>
+
+<line x1="4" y1="60" x2="956" y2="60" stroke="#B9B5AA"/>
+</svg>

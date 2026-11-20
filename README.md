@@ -1,37 +1,19 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="yanyan. I build agents that do the work, and fix the small things that break." src="assets/hero-light.svg" width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="yanyan, AI product manager in Hangzhou. Agent products, built end to end." src="assets/header-light.svg" width="100%"></picture>
 
-<br>
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img alt="I design agent products and build them myself, from the first document to working software. In between, I fix bugs in open-source projects I use." src="assets/intro-light.svg" width="100%"></picture>
 
-I design agent products and build them myself, from the first document to working software. In between, I fix bugs in open-source projects I use. Each fix starts with a reproduction and ends with a test.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-upstream-dark.svg"><img alt="Upstream" src="assets/label-upstream-light.svg" width="100%"></picture>
 
-<br>
+<a href="https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/up-mruby-dark.svg"><img alt="mruby: Long float strings and unpadded base64 parse correctly" src="assets/up-mruby-light.svg" width="100%"></picture></a><br><a href="https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/up-effect-dark.svg"><img alt="Effect: String case helpers keep Unicode letters and marks" src="assets/up-effect-light.svg" width="100%"></picture></a><br><a href="https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/up-heyform-dark.svg"><img alt="HeyForm: Dates, report statistics and dark-mode selects" src="assets/up-heyform-light.svg" width="100%"></picture></a>
 
-### Upstream
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-made-dark.svg"><img alt="Made" src="assets/label-made-light.svg" width="100%"></picture>
 
-**[mruby](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;Long float strings and unpadded base64 now parse correctly.&ensp;<sub>2 merged</sub>  
-**[Effect](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;String case helpers keep Unicode letters and marks.&ensp;<sub>1 merged</sub>  
-**[HeyForm](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev)**&ensp;Dates, report statistics, and dark-mode selects behave as expected.&ensp;<sub>5 merged</sub>
+<a href="https://github.com/yuyongyan29-dev/claude-pet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/made-claude-pet-dark.svg"><img alt="claude-pet: A pixel pet that lives above your Claude Code prompt" src="assets/made-claude-pet-light.svg" width="100%"></picture></a><br><a href="https://github.com/yuyongyan29-dev/agent-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/made-agent-town-dark.svg"><img alt="agent-town: Your local coding agents, as a small 3D town" src="assets/made-agent-town-light.svg" width="100%"></picture></a><br><a href="https://github.com/yuyongyan29-dev/Bree"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/made-bree-dark.svg"><img alt="Bree: A quiet macOS memory inspector for the terminal" src="assets/made-bree-light.svg" width="100%"></picture></a><br><a href="https://github.com/yuyongyan29-dev/jd-radar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/made-jd-radar-dark.svg"><img alt="jd-radar: A local agent that reads job descriptions with you" src="assets/made-jd-radar-light.svg" width="100%"></picture></a><br><a href="https://github.com/yuyongyan29-dev/ai-agent-roadmap"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/made-ai-agent-roadmap-dark.svg"><img alt="ai-agent-roadmap: Thirty-seven weeks from zero to production agents" src="assets/made-ai-agent-roadmap-light.svg" width="100%"></picture></a>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-now-dark.svg"><img alt="Now" src="assets/label-now-light.svg" width="100%"></picture>
 
-### Made
-
-**[claude-pet](https://github.com/yuyongyan29-dev/claude-pet)**&ensp;A pixel pet that lives above your Claude Code prompt.  
-**[agent-town](https://github.com/yuyongyan29-dev/agent-town)**&ensp;Your local coding agents, as a small 3D town.  
-**[Bree](https://github.com/yuyongyan29-dev/Bree)**&ensp;A quiet macOS memory inspector for the terminal.  
-**[jd-radar](https://github.com/yuyongyan29-dev/jd-radar)**&ensp;A local agent that reads job descriptions so you don't have to guess.  
-**[ai-agent-roadmap](https://github.com/yuyongyan29-dev/ai-agent-roadmap)**&ensp;Thirty-seven weeks from zero to production agents.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img alt="cenbo: AI assistants and internal tools. Private work." src="assets/now-light.svg" width="100%"></picture>
 
 <br>
 
-### Now
-
-Building AI assistants and internal tools at cenbo. That work is private.
-
-<br>
-
-<sub>[yuyongyan29@gmail.com](mailto:yuyongyan29@gmail.com)&ensp;·&ensp;[@wei_yan77180](https://x.com/wei_yan77180)&ensp;·&ensp;Open to AI PM and agent roles</sub>
+<p align="center"><sub><a href="mailto:yuyongyan29@gmail.com">yuyongyan29@gmail.com</a>&ensp;·&ensp;<a href="https://x.com/wei_yan77180">@wei_yan77180</a>&ensp;·&ensp;Open to AI PM and agent roles</sub></p>
