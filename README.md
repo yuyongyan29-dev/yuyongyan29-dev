@@ -11,9 +11,9 @@ I design agent products and build them end to end, from the PRD to working softw
 
 | | Project | What I fixed | PRs |
 | :-: | --- | --- | :-: |
-| <img src="https://github.com/mruby.png?size=40" width="20"> | **[mruby](https://github.com/mruby/mruby)** | Long float strings in `String#to_f` and `Float()`; base64 `unpack("m")` without `=` padding | [2 merged](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
-| <img src="https://github.com/Effect-TS.png?size=40" width="20"> | **[Effect](https://github.com/Effect-TS/effect)** | Unicode letters, combining marks, and digits in string case helpers | [1 merged](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
-| <img src="https://github.com/heyform.png?size=40" width="20"> | **[HeyForm](https://github.com/heyform/heyform)** | Date formats in form logic and saved answers, report stats with skipped answers, dark-mode selects | [5 merged](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+| <img src="https://github.com/mruby.png?size=40" width="20"> | **[mruby](https://github.com/mruby/mruby)** | Long float strings in `String#to_f` and `Float()`; base64 `unpack("m")` without `=` padding | [2&nbsp;merged](https://github.com/mruby/mruby/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+| <img src="https://github.com/Effect-TS.png?size=40" width="20"> | **[Effect](https://github.com/Effect-TS/effect)** | Unicode letters, combining marks, and digits in string case helpers | [1&nbsp;merged](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
+| <img src="https://github.com/heyform.png?size=40" width="20"> | **[HeyForm](https://github.com/heyform/heyform)** | Date formats in form logic and saved answers, report stats with skipped answers, dark-mode selects | [5&nbsp;merged](https://github.com/heyform/heyform/pulls?q=is%3Apr+is%3Amerged+author%3Ayuyongyan29-dev) |
 
 <sub>[Every pull request I've opened →](https://github.com/pulls?q=is%3Apr+author%3Ayuyongyan29-dev)</sub>
 
