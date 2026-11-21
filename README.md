@@ -14,7 +14,7 @@ Small, well-tested fixes merged upstream. Each one starts from a real reproducti
 
 | Project | What changed | PRs |
 | --- | --- | --- |
-| [mruby](https://github.com/mruby/mruby) | `unpack("m")` keeps the last bytes of base64 input without `=` padding; `String#to_f` and `Float()` parse numbers longer than 80 bytes | [#7849](https://github.com/mruby/mruby/pull/7849) · [#7847](https://github.com/mruby/mruby/pull/7847) |
+| [mruby](https://github.com/mruby/mruby) | `Array.new` rejects a negative size and re-`initialize` drops leftover elements; `unpack("m")` keeps the last bytes of base64 input without `=` padding; `String#to_f` and `Float()` parse numbers longer than 80 bytes | [#7858](https://github.com/mruby/mruby/pull/7858) · [#7849](https://github.com/mruby/mruby/pull/7849) · [#7847](https://github.com/mruby/mruby/pull/7847) |
 | [Effect](https://github.com/Effect-TS/effect) | String case helpers keep Unicode letters, combining marks, and digits | [#10638](https://github.com/Effect-TS/effect/pull/10638) |
 | [HeyForm](https://github.com/heyform/heyform) | Saved dates and date logic respect the field's format; reports skip unanswered optional questions; selects stay readable in dark mode | [#406](https://github.com/heyform/heyform/pull/406) · [#401](https://github.com/heyform/heyform/pull/401) · [#393](https://github.com/heyform/heyform/pull/393) · [#380](https://github.com/heyform/heyform/pull/380) · [#391](https://github.com/heyform/heyform/pull/391) |
 
